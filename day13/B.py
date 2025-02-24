@@ -1,4 +1,4 @@
-with open("/home/santhosh/projects/advent-of-code-2024/day13/input.txt","r") as f:
+with open("input.txt","r") as f:
     data = [line.strip() for line in f.readlines() if line.strip()]
 
 equations = []
